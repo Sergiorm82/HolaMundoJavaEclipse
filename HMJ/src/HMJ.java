@@ -1,4 +1,4 @@
-//Sergio Yo
+//Sergio Yo yo no 
 public class HMJ {
 
 	public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class HMJ {
 		System.out.println("Hola Mundo IDE :)");
 
 		// Enteros
-		byte edad = 127;
+		byte edad = 8;
 		short year = -32768;
 		int id_user = 1001;
 		long id_twitter = 12345678923456789L;
