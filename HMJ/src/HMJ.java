@@ -1,4 +1,4 @@
-
+//Sergio Yo
 public class HMJ {
 
 	public static void main(String[] args) {
@@ -50,7 +50,7 @@ public class HMJ {
 		byte numeroByte = (byte) numero;
 
 		// Arrays
-		// Declaración de array
+		// DeclaraciÃ³n de array
 
 		int[] arregloInt = new int[2];
 		double arregloDouble[];
@@ -78,7 +78,7 @@ public class HMJ {
 		monkey[1][0][0][1] = 'm';
 		// System.out.println(monkey[1][0][0][1]);
 
-		// Operadores Aritméticos
+		// Operadores AritmÃ©ticos
 		int a = 1;
 		int aa = a + a;
 		// System.out.println("el valor de aa: " + aa);
@@ -136,7 +136,7 @@ public class HMJ {
 		System.out.println("q >= p ->" + (q >= p));
 		System.out.println("q <= p ->" + (q <= p));
 
-		// Operadores lógicos
+		// Operadores lÃ³gicos
 		boolean n = false;
 		boolean m = true;
 
